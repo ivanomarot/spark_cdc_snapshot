@@ -1,0 +1,8 @@
+# PyCharm project files
+.idea/
+
+# Datalake Project
+.cluster_id
+.datalake_profile
+dist/
+libs/
